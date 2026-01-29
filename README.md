@@ -87,7 +87,7 @@ Displays your most recent message to Claude (truncated to 100 characters for rea
 **1. Clone this repository:**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/claude-code-statusline.git
+git clone https://github.com/jlaran/claude-code-statusline.git
 cd claude-code-statusline
 ```
 
